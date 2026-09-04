@@ -11,4 +11,4 @@ LoL・POE・黒い砂漠のゲーム配信をしながら、ツール開発と�
 
 ## リンク
 
-🎮 [Twitch](https://twitch.tv/asai_501xx) 📺 [YouTube](https://www.youtube.com/@asai_siegfried) 🦋 [Bluesky](https://bsky.app/profile/asai-siegfried.bsky.social) ✍️ [カクヨム](https://kakuyomu.jp/users/asai_siegfried)
+🎮 [Twitch](https://www.twitch.tv/asai_siegfried) 📺 [YouTube](https://www.youtube.com/@asai_siegfried) 🦋 [Bluesky](https://bsky.app/profile/asai-siegfried.bsky.social) ✍️ [カクヨム](https://kakuyomu.jp/users/asai_siegfried)
